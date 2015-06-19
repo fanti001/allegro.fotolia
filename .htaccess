@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^grayscale/([^./]+/([^./]+\.(jpg|jpeg|png|gif)|_[0-9]+))$ img_effect.php?effect=grayscale&file=$1
+RewriteRule ^sepia/([^./]+/([^./]+\.(jpg|jpeg|png|gif)|_[0-9]+)) img_effect.php?effect=sepia&file=$1
+Options -Indexes

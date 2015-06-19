@@ -1,0 +1,76 @@
+.files_layout{
+	width: 99%;
+}
+
+.f_image {
+	background: #fff;
+}
+
+.f_details{
+	width: 112px;
+	text-align: center;
+    float:left;
+    font-size:9px;
+}
+
+.f_photo {
+	text-align: center;
+	float: left;
+	padding: 0;
+	margin: 0px 5px 10px 0px;
+	width: 112px;
+	height: 133px;
+}
+
+.f_photo img {
+    border:1px solid #CCCCCC;
+}
+
+div.div_pagination{
+	
+	float: left;
+	padding: 10px;
+}
+#pag {
+	clear: left;
+}
+
+.pagination{
+	
+   	text-align:center;
+   	border:1px solid #7B8EDB;
+   	font-size:11px;
+	padding: 1px 5px 1px 5px;
+   	margin-left:5px;
+   	margin-top:5px;
+   	display:inline;
+   	float:left;
+	color: green;
+   	text-decoration:none;
+   }
+
+.pagination_current{
+	
+
+	color: #FFF;
+   	text-align:center;
+   	background-color:#7B8EDB;
+	border: 1px solid #4C63C0;
+   	font-size:11px;
+	padding: 1px 5px 1px 5px;
+   	margin-left:5px;
+   	margin-top:5px;
+   	display:inline;
+   	float:left;
+   	text-decoration:none;
+   }
+
+.href_pagi {
+   	text-decoration:none;
+   }
+
+.pagination:hover {
+	color: #FFF;
+   	background-color:#7B8EDB;
+	border: 1px solid #4C63C0;
+   }

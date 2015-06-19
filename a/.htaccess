@@ -1,0 +1,8 @@
+AuthName "log in:"
+AuthType Basic
+AuthUserFile /home/fanti/allegro.kamedia.pl/.htpasswd
+Require user piotr
+php_value error_reporting 2047
+RewriteEngine On
+RewriteRule ^grayscale/([^./]+/([^./]+\.(jpg|jpeg|png|gif)|F_[0-9]+))$ img_effect.php?effect=grayscale&file=$1
+RewriteRule ^sepia/([^./]+/([^./]+\.(jpg|jpeg|png|gif)|F_[0-9]+)) img_effect.php?effect=sepia&file=$1

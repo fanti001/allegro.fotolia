@@ -1,0 +1,197 @@
+	* {
+			margin: 0;
+			padding: 0;
+		}
+
+		form, input, select, textarea {
+			margin:0;
+			padding:0;
+			color: black;
+		}
+ 
+		div.box {
+			margin:0 3px 0 5px;
+			width:475px;
+		/*	height: 520px;*/
+			padding: 0px 0px 0px 0px;
+			background: white;	
+			position:relative;
+			float: left;
+		}
+
+	/*	div.box label {
+			width:170px;
+			margin: 10px 0px 10px 80px;
+			display: block;
+			float: left;
+		}
+	*/
+    /*    div.box label.cena {
+			width:285px;
+			font-size: 20px;
+			font-weight: bold;
+			margin-left: 0px;
+			color: #A70CAD;
+			margin-top: 0px;
+			display: block;
+			padding:10px 0 0px 0;
+			float: left;
+		}
+
+		div.box label.c{
+			width:50px;
+			font-size: 24px;
+			margin-left: 0px;
+			display: block;
+			padding:17px 3px 10px 5px;
+			float: right;
+		}
+		
+		div.box label.required{
+			width:250px;
+			display: block;
+			margin: 5px 0 0 10px;
+			padding:0px 0px 0px 0px;
+			float: left;
+		}
+		div.box label.klient{
+			width:250px;
+			display: block;
+			margin: 0px 0 0 5px;
+			padding:0px 0px 0px 0px;
+			float: left;
+		}
+		div.box label.required span {
+			display: block;
+			color:black;
+			font-size:14px;
+			float:left;
+			width:100px;
+			text-align: left;
+			padding:5px 0px 0 0;
+		}
+			
+		div.box label.klient span {
+			display: block;
+			color:black;
+			font-size:14px;
+			float:left;
+			width:100px;
+			text-align: left;
+			padding:5px 0px 0 0;
+		}	
+		div.box label span {
+			display: block;
+			color:black;
+			font-size:14px;
+			float:left;
+			width:100px;
+			text-align: right;
+			padding:5px 20px 0 0;
+		}
+ 
+ 
+		div.box label.c span {
+			display: block;
+			color:black;
+			font-size:14px;
+			float:left;
+			width:20px;
+			text-align:left;
+			padding:5px 20px 0 0;
+			margin-top: 1px;
+		}
+ 
+		div.box .wpis {
+			padding:5px 5px;
+			width:35px;
+			font-size: 14px;
+			background:white;
+			border: 1px solid #A70CAD;
+			-moz-border-radius: 3px;
+			-webkit-border-radius: 3px;
+			border-radius: 3px;
+		}
+		div.box .cena {
+			padding:0px 0px 5px 0px ;
+			width:90px;
+            height: 30px;
+			font-size: 40px;
+			background:white;
+			color: #A70CAD;
+			text-align: right;
+			border: 0px solid #A70CAD;
+			-moz-border-radius: 3px;
+			-webkit-border-radius: 3px;
+			border-radius: 3px;
+		}
+		div.box .required{
+			padding:5px 5px;
+			width:250px;
+			font-size: 14px;
+			background:white;
+			border: 1px solid #A70CAD;
+			-moz-border-radius: 3px;
+			-webkit-border-radius: 3px;
+			border-radius: 3px;
+		}
+		div.box .email{
+			padding:5px 5px;
+			width:250px;
+			font-size: 14px;
+			background:white;
+			border: 1px solid #A70CAD;
+			-moz-border-radius: 3px;
+			-webkit-border-radius: 3px;
+			border-radius: 3px;
+		}
+		
+		div.box  select , checkbox{
+			padding:5px 5px;
+			width:300px;
+			float: left;
+			margin-left: 0px;
+			font-size: 14px;
+			background:white;
+			border: 1px solid #A70CAD;
+			-moz-border-radius: 3px;
+			-webkit-border-radius: 3px;
+			border-radius: 3px;		
+		}
+ 
+		div.box .wiadomosc {
+			padding:5px;
+			width:250px;
+			background: white;
+			border: 1px solid #A70CAD;
+			-moz-border-radius: 3px;
+			-webkit-border-radius: 3px;
+			border-radius: 3px;
+			overflow:hidden;
+			height:70px;
+		}
+*/
+		div.miodek{
+			display:none;
+		}
+	
+		#coords label.error {
+			position: absolute;
+			font-size: 10px;
+			z-index: 3;
+		/*	width: 250px;*/
+			color: red;
+		}
+		
+		#qs_result_value {
+			padding:5px 5px;
+            margin-top: 11px;			
+			background:silver;			
+		}
+  
+        #search {
+            position: relative;
+            top: 0px;
+            left: 0px;
+            z-index: 10;
+        }

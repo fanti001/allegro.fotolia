@@ -4,9 +4,7 @@
     <ul class="nav nav-tabs" id="myTab">
     <li class="active"><a href="#212">Lateks 212g</a></li>
 	<li><a href="#212L">Lateks 212g laminowany</a></li>
-    <li><a href="#140">Lateks ECO</a></li>
-{*    <li><a href="#samo">Basic Stick</a></li>
-    <li><a href="#clear">Clear Stick</a></li>*}
+    <li><a href="#140">Lateks ECOa</a></li>
     </ul>
      
     <div class="tab-content">

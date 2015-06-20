@@ -47,9 +47,8 @@ $CONF_Fotolia_search_filters = array(
 	'content_type:illustration' =>1,
 	'content_type:vector'       =>1,
 	'content_type:video'        =>0,
-	'content_type:all'          =>0,
-	'offensive:2'    =>1,
-	'thumbnail_size' =>400,
+	'content_type:all'          =>1,
+	'offensive:2'               =>1,
 );
 
 if ($_SERVER["HTTP_HOST"] == 'localhost') {

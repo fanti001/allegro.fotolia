@@ -8,4 +8,3 @@ $smarty->caching = true;
 
 //$smarty->assign('path',$web_PATH);	  
 $smarty->display('aranzacje.tpl');
-?>

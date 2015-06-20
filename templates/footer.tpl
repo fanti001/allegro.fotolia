@@ -23,6 +23,7 @@
 <div id="copyright" style="float: contour; margin-top: 30px">	Copyright © 2012 Kamedia.pl </div>
 </div>
 {literal}
+<!--    
 <script type="text/javascript">
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -31,7 +32,7 @@
 
   ga('create', 'UA-54736737-2', 'auto');
   ga('send', 'pageview');
-</script>
+</script> -->
 {/literal}
 </body>
 </html>

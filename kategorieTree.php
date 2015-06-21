@@ -8,7 +8,7 @@ $smarty->force_compile = true;
 $smarty->caching = true;
 $smarty->cache_lifetime = 120;
 require './config.php';
-require './obrazek.class.php';
+require './class/obrazek.class.php';
 
 $kat = intval(@$_GET['kat']);
 if ($kat<0 || $kat>24)

@@ -14,11 +14,8 @@
 		</div>
 </div>
 
-
 {/section}
 
 </div>
-
-
 
 {include file="footer.tpl"}

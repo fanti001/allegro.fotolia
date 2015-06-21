@@ -87,7 +87,7 @@ pause: "hover"
         <li><a href="material.php">instrukcje</a></li>
 		<li><a href="dostawa.php"> dostawa</a></li>				
 		<li><a href="kontakt.php"> kontakt</a></li>	
-	{*	<li><a href="allegro.php"> test</a></li>*}
+		<li><a href="allegro.php"> test</a></li>
     </ul>
   {*  {include file="search.tpl"} *}
 </div>	

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 date_default_timezone_set('Europe/Warsaw');
 $CONF_http = 'http://allegro.kamedia.pl';
 $CONF_sendEmailOnOrder = TRUE;
